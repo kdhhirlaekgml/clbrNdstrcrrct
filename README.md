@@ -1,16 +1,17 @@
 # clbrNdstrcrrct
 
-# Camera Calibration Results
+## Camera Calibration Results
 
-## Calibration Parameters
+### Calibration Parameters
 
-- **Focal Lengths:**
-  - `fx`: 1070.89757 pixels
-  - `fy`: 1142.06919 pixels
+- **선택된 이미지 수:** 5개
 
-- **Principal Point Coordinates:**
-  - `cx`: 634.936701 pixels
-  - `cy`: 482.48426 pixels
+- **초점 거리:**
+  - `fx`: 654.60440271 px
+  - `fy`: 687.54028032 px
 
-- **RMSE:**
-  - 0.4875256143250399 pixels
+- **주점 좌표:**
+  - `cx`: 547.56880934 px
+  - `cy`: 598.78802921 px
+
+- **RMSE:** 0.819048498620728 px
